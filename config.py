@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH","f8316a8865477f009ab53b7126eb52c3")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ll_God_Father_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Jio_savan_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Mahi_xmusic_robot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Ꭾᴜʀꪜɪ ꭙ ϻᴜsɪᴄ˼")
+BOT_NAME = getenv("BOT_NAME" ,  "𓆰𓏲𝐌𝖺𝗁𝗂𓂃ֶꪳ 𓆩〭〬🦋𓆪ꪾ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Alpha")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Riya")
 # ---------------------------------------------------------
 
 
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KRITI_UPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_BADNAM_BOTS")
-SOURCE = getenv("SOURCE", "https://t.me/Sonali_music_bot")
-CHAT = getenv("CHAT", "https://t.me/TEAM_BADNAM_BOTS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RIYA_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RIYA_CHAT_SUPPORT")
+SOURCE = getenv("SOURCE", "https://t.me/Mahi_xmusic_robot")
+CHAT = getenv("CHAT", "https://t.me/NEXTHACKERS")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
