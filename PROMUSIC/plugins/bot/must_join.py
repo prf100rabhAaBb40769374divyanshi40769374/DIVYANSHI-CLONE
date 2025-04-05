@@ -5,7 +5,7 @@ from PROMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "TEAM_BADNAM_BOTS"
+MUST_JOIN = "RIYA_NETWORK"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -26,8 +26,8 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/KRITI_UPDATE"),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/TEAM_BADNAM_BOTS"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/NEXTHACKERS"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/RIYA_NETWORK"),
                             ]
                         ]
                     )
