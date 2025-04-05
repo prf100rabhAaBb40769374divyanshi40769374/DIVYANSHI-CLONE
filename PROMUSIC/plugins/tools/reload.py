@@ -106,9 +106,9 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("GOD")
+    filters.command("PROFESSOR")
     & filters.private
-    & filters.user(7622753384)
+    & filters.user(7564329827)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
@@ -118,7 +118,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "ᯓ𓆰𝅃🔥𝗚𝗼𝗱 𝗙𝗮𝘁𝗵𝗲𝗿⍣꯭꯭𓆪꯭🝐", url=f"https://t.me/RIYA_NETWORK")
+                         "˹ sᴏᴜʀᴀʙʜ #ᴘʀᴏғᴇssᴏʀ ˼侖", url=f"https://t.me/ProfessorSourabh")
                  ]
             ]
          ),
